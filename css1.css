@@ -1,0 +1,56 @@
+.border{
+    border-style: solid dotted dashed double;
+    border-width: 5px 3px 5px 3px;
+    border-radius: 20px 30px 20px;
+    border-color: coral royalblue;
+    padding: 50px 50px;
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    color: black;
+    text-align: justify;
+    text-decoration: underline;
+    text-indent: 100px;
+    word-spacing: 10px;
+    letter-spacing: 5px;
+    line-height: 10px;
+}
+#pg{
+    background-color: cadetblue;
+    height: ;
+    
+    padding: 50px 100px;
+}
+
+.h1{
+    text-align: center;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    font-size: 50px;
+    text-shadow: 23px 3px 3px grey;
+    color: blue;
+    font-weight:normal;
+    font-style: italic;
+    font-variant: small-caps;
+    
+}
+.font{
+    font-family: 'Comforter', cursive;
+}
+.li{
+    font-size: 50px;
+    text-decoration: none;
+}
+.li a :link{
+    color: chartreuse;
+}
+.li a :visited{
+    color:red ;
+}
+.li a :hover{
+    color: yellow;
+}
+.li a :active{
+    color: blue;
+}
